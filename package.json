@@ -1,0 +1,14 @@
+{
+  "name": "graphql-burp-test",
+  "version": "1.0.0",
+  "description": "GraphQL test API for Burp Scanner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.12.0",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0"
+  }
+}
